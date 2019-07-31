@@ -48,3 +48,13 @@ table tr td:last-child {
     color: white;
     font-size:  2em;
 }
+
+.message {
+    top: 60%;
+    position: absolute;
+    left: 38%;
+    text-align: center;
+    font-size: 2em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-left: -10px;
+}
